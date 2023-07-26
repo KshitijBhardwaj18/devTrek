@@ -1,1 +1,1 @@
-This is an full stack social media app designed by Kshitij Bhardwaj
+devTrek is an full stack social media app for devlopers designed by Kshitij Bhardwaj
